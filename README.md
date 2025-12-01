@@ -5,14 +5,9 @@
 </p>
 
 <p align="center">
-Self-taught developer passionate about AI, ML, and full-stack engineering. I love creating impactful products, experimenting with new technology, and building solutions that genuinely help people.
+Self-taught developer passionate about AI, ML, and MLOps. I love creating impactful products, experimenting with new technology, and building solutions that genuinely help people.
 </p>
 
-<p align="center">
- 
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
-
-</p>
 ---
 
 ### 🔥 **About Me**
