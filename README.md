@@ -40,54 +40,103 @@ const Sneh = {
 }
 ```
 
-## 🛠️ Technologies and Tools I use:
-<p align="center">
+## 🧠 Skill Matrix
 
-<!-- Core Languages -->
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" height="28"/>
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Skills / Tools</th>
+  </tr>
 
-<!-- AI/ML -->
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/XGBoost-0187C7?style=for-the-badge&logo=xgboost&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" height="28"/>
+  <!-- AI & Machine Learning -->
+  <tr>
+    <td><b>AI & Machine Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XGBoost-0187C7?style=flat"/>
+      <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat"/>
+    </td>
+  </tr>
 
-<!-- GenAI / NLP -->
-<img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" height="28"/>
-<img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=huggingface&logoColor=yellow" height="28"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/LangChain-12100E?style=for-the-badge&logo=chainlink&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/LLMs-4A90E2?style=for-the-badge" height="28"/>
+  <!-- GenAI & NLP -->
+  <tr>
+    <td><b>GenAI & NLP</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Transformers-000000?style=flat&logo=huggingface&logoColor=yellow"/>
+      <img src="https://img.shields.io/badge/LangChain-12100E?style=flat"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LLMs-4A90E2?style=flat"/>
+    </td>
+  </tr>
 
-<!-- Computer Vision / Imaging -->
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Pillow-1163EE?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/TesseractOCR-000000?style=for-the-badge&logo=tesseract&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Ultralytics--YOLO-00FFFF?style=for-the-badge" height="28"/>
+  <!-- Computer Vision & Imaging -->
+  <tr>
+    <td><b>Computer Vision & Imaging</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat"/>
+      <img src="https://img.shields.io/badge/TesseractOCR-000000?style=flat&logo=tesseract&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pillow-1163EE?style=flat"/>
+    </td>
+  </tr>
 
-<!-- MLOps -->
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" height="28"/>
-<img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
+  <!-- MLOps -->
+  <tr>
+    <td><b>MLOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=flat&logo=kubeflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
 
-<!-- Data Engineering -->
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Airflow-007A88?style=for-the-badge&logo=apacheairflow&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="28"/>
+  <!-- Data Engineering -->
+  <tr>
+    <td><b>Data Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Airflow-007A88?style=flat&logo=apacheairflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+    </td>
+  </tr>
 
-<!-- Web/Cloud -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Azure-008AD7?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="28"/>
+  <!-- Backend Engineering -->
+  <tr>
+    <td><b>Backend Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_API-005571?style=flat"/>
+    </td>
+  </tr>
 
-</p>
+  <!-- Frontend Engineering -->
+  <tr>
+    <td><b>Frontend Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+    </td>
+  </tr>
+
+  <!-- Cloud -->
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Azure-008AD7?style=flat&logo=microsoft-azure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat&logo=firebase&logoColor=white"/>
+    </td>
+  </tr>
+
+</table>
