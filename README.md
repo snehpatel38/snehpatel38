@@ -11,9 +11,9 @@ Self-taught developer passionate about AI, ML, and full-stack engineering. I lov
 ---
 
 ### 🔥 **About Me**
-- 💼 Working on **AI, ML, and Full-Stack Projects**
-- 🌱 Currently learning **Next.js, TypeScript & Advanced ML**
-- 🤝 Open to collaborate on **AI + Web + Automation projects**
+- 💼 Working on **AI in Healthcare**
+- 🌱 Currently learning **Parallel Programing, Madical Imaging**
+- 🤝 Open to collaborate on **AI + Automation projects**
 - 💬 Ask me about **Machine Learning, React, APIs, LLMs**
 - ⚡ Fun fact: I break things just to learn how to fix them
 
@@ -33,6 +33,7 @@ const Sneh = {
     cloud: ["Azure", "Firebase"]
   }
 }
+```
 
 ## 🛠️ Technologies and Tools I use:
 
