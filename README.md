@@ -16,7 +16,6 @@
 ```javascript
 const Sneh = {
   pronouns: "He/Him",
-  age: 21,
   interests: ["AI", "Deep-Learning", "Computer Vision"],
 }
 ```
